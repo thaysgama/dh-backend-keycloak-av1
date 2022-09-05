@@ -35,6 +35,6 @@ spring:
           bills-app:
             provider: bills-app
             client-id: bills-client
-            client-secret: HCmEEIj7RF6ddPIZPKN3Z7Ip1lnr2klB
+            client-secret: NRQZLTHoz4mvajcerWq2uYQpMnagz8Jw
             authorization-grant-type: authorization_code
             redirect-uri: "{baseUrl}/login/oauth2/code/keycloak"
